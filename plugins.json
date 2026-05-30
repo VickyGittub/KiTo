@@ -5,6 +5,8 @@
     "url": "https://raw.githubusercontent.com/VickyGittub/kiTo/main/AnimeToki.cs3",
     "status": 1,
     "description": "Watch anime from animetoki.com",
-    "authors": ["VickyGittub"]
+    "authors": ["VickyGittub"],
+    "language": "en",
+    "tvTypes": ["Anime"]
   }
 ]
