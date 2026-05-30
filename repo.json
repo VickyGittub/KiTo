@@ -1,8 +1,8 @@
 {
   "name": "AnimeToki Repo",
-  "description": "Personal AnimeToki plugin repository",
+  "description": "Personal CloudStream repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/VickyGittub/f68b5e30c408f4843f8c16e6017522a7/raw/plugins.json"
+    "https://raw.githubusercontent.com/VickyGittub/KiTo/main/plugins.json"
   ]
 }
